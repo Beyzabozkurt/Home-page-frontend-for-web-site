@@ -1,29 +1,12 @@
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/11247099/154486817-f86b8f20-5463-4122-b6e9-930622e757f2.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
-</p>
+![Image](https://github.com/user-attachments/assets/d50d2943-41c2-4777-821c-72a1126cafd0)
 
-<p align='center'>
-Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
-</p>
+![Image](https://github.com/user-attachments/assets/23da2469-8d32-4453-8b44-9809051a0d30)
 
-<br>
+![Image](https://github.com/user-attachments/assets/1de1be37-f444-49bf-89fd-ec25df8eb80e)
 
-<p align='center'>
-<a href="https://vitesse.netlify.app/">Live Demo</a>
-</p>
+![Image](https://github.com/user-attachments/assets/775560bd-fc78-486e-8498-fc79fc28928e)
 
-<br>
-
-> **Note**: This template is created during the early transition of Vue 3 and Vite. At this moment, if you are seeking for better Vue developer experience and more consistent maintenance, we recommend using [Nuxt 3](https://nuxt.com) instead (it also works perfectly with SPA or SSG as needed). This template still serves as a reference, but expect slower updates.
-
-<br>
-
-<p align='center'>
-<b>English</b> | <a href="https://github.com/antfu/vitesse/blob/main/README.zh-CN.md">简体中文</a>
-<!-- Contributors: Thanks for getting interested, however we DON'T accept new translations to the README, thanks. -->
-</p>
-
-<br>
+![Image](https://github.com/user-attachments/assets/cf63d76d-a204-40a6-b0d6-07f7559f3366)
 
 ## Features
 
